@@ -1,4 +1,4 @@
-**Flight Fare Predictive Model**
+**Flight Fare Prediction**
 **Problem**
 - We are given a dataset on Flight Fare.
 - The dataset has information about the flight price for different routes and classes.
