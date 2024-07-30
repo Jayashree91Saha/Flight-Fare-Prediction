@@ -15,6 +15,7 @@
     5. No of days in advance the booking is made
     6. Time of Departure & Arrival
     7. CLass
+  - Finally we will create a model that can predict flight price
 
  **Technology Used**
  - Python
